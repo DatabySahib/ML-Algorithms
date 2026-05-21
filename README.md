@@ -56,7 +56,7 @@ Each project follows a strict, structured roadmap: from rigorous Exploratory Dat
 
 ---
 
-## 🚀 Key Data Engineering Skills Demonstrated
+##  Key Data Engineering Skills Demonstrated
 *   **Advanced Data Cleaning:** Handling complex missing data, removing duplicates, and systematic outlier detection/treatment.
 *   **Feature Engineering:** Standard Scaling, MinMax Scaling, and categorical encoding (One-Hot Encoding).
 *   **Model Optimization:** Hyperparameter tuning via Grid Search and resolving model variance issues (overfitting/underfitting).
